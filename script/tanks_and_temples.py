@@ -9,7 +9,7 @@ import queue
 import time
 
 scenes = ["Auditorium", "Ballroom", "Barn", "Caterpillar", "Church", "Courthouse", "Courtroom", "Family", "Francis", "Horse", "Ignatius", "Lighthouse", "M60", "Meetingroom", "Museum", "Palace", "Panther", "Playground", "Temple", "Train", "Truck"]
-factors = [2] * len(scenes)
+factors = [1] * len(scenes)
 
 excluded_gpus = set([])
 

@@ -13,7 +13,7 @@
 
 <p align="center"><sup>+</sup>corresponding authors</p>
 
-<h3 align="center"><a href="">Paper</a> | <a href="">arXiv</a> | <a href="">Project Page</a></h3>
+<h3 align="center"><a href="">Paper</a> | <a href="">arXiv</a> | <a href="https://pixelgs.github.io/">Project Page</a></h3>
 
 <p align="center">
   <img src="./assets/base.png" alt="3DGS*" width="49.5%">
