@@ -54,6 +54,9 @@ Pixel-GS
     |   |   |---<image 0>
     |   |   |---<image 1>
     |   |   |---...
+    |   |---images_2
+    |   |---images_4
+    |   |---images_8
     |   |---sparse
     |       |---0
     |           |---cameras.bin
@@ -103,6 +106,9 @@ Pixel-GS
     |   |   |---<image 0>
     |   |   |---<image 1>
     |   |   |---...
+    |   |---images_2
+    |   |---images_4
+    |   |---images_8
     |   |---sparse
     |       |---0
     |           |---cameras.bin
@@ -111,6 +117,9 @@ Pixel-GS
     |---Ballroom
     |---...
 ```
+
+Then, you need to rename the folder 'images_2' to 'images', since the resolution we are working with is close to 980x545.
+You can also avoid renaming by simply changing `factors = [1] * len(scenes)` to `factors = [2] * len(scenes)` in `./script/tanks_and_temples.py`. This modification will instruct the code to reshape the images upon loading during training.
 
 ### Your Own Dataset
 
