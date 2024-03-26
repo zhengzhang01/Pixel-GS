@@ -13,7 +13,7 @@
 
 <p align="center"><sup>+</sup>corresponding authors</p>
 
-<h3 align="center"><a href="">Paper</a> | <a href="">arXiv</a> | <a href="https://pixelgs.github.io/">Project Page</a></h3>
+<h3 align="center"><a href="https://arxiv.org/pdf/2403.15530.pdf">Paper</a> | <a href="https://arxiv.org/abs/2403.15530">arXiv</a> | <a href="https://pixelgs.github.io/">Project Page</a></h3>
 
 <p align="center">
   <img src="./assets/base.png" alt="3DGS*" width="49.5%">
@@ -150,10 +150,10 @@ This project is built upon [3DGS](https://github.com/graphdeco-inria/gaussian-sp
 If you find this project useful, please consider citing:
 
 ```bibtex
-@article{,
-  author    = {Zheng, Zhang and Wenbo, Hu and Yixing, Lao and Tong, He and Hengshuang, Zhao},
+@article{zhang2024pixelgs,
   title     = {Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting},
-  journal   = {arXiv:},
+  author    = {Zheng, Zhang and Wenbo, Hu and Yixing, Lao and Tong, He and Hengshuang, Zhao},
+  journal   = {arXiv:2403.15530},
   year      = {2024},
 }
 ```
