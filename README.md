@@ -152,7 +152,7 @@ If you find this project useful, please consider citing:
 ```bibtex
 @article{zhang2024pixelgs,
   title     = {Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting},
-  author    = {Zheng, Zhang and Wenbo, Hu and Yixing, Lao and Tong, He and Hengshuang, Zhao},
+  author    = {Zhang, Zheng and Hu, Wenbo and Lao, Yixing and He, Tong and Zhao, Hengshuang},
   journal   = {arXiv:2403.15530},
   year      = {2024},
 }
