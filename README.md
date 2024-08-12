@@ -150,7 +150,7 @@ This project is built upon [3DGS](https://github.com/graphdeco-inria/gaussian-sp
 If you find this project useful, please consider citing:
 
 ```bibtex
-@article{zhang2024pixelgs,
+@inproceedings{zhang2024pixelgs,
   title     = {Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting},
   author    = {Zhang, Zheng and Hu, Wenbo and Lao, Yixing and He, Tong and Zhao, Hengshuang},
   booktitle = {ECCV},
